@@ -24,4 +24,4 @@ Takeoff is a Visual Studio Code extension that enables effortless, click-based u
 
 ---
 
-Enjoy faster, smarter test creation with Takeoff!
+Enjoy faster, smarter test creation with Takeoff! 🚀
